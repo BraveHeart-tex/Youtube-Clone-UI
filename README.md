@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# LIVE DEMO
+You can check out the live demo of this application on Netlify via this link: https://bora-youtubeui.netlify.app/
+
+## Technologies Used
+1. React
+2. React-Router 6
+3. Styled Components
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
